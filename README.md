@@ -11,3 +11,4 @@ To turn it off, you need to press the stop button
 
 ![Alt text](https://github.com/noshum/HomeWorkUI/blob/main/SigmaTrafficLightScreen.png)
 
+To download the zip file go to the dev branch. Thnx.
